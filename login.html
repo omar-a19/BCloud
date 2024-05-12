@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/login.css">
+  </head>
+<body>
+  <header class="header_section">
+    <div class="container-fluid">
+      <nav class="navbar navbar-expand-lg custom_nav-container ">
+        <a class="navbar-brand" href="index.html">
+          <span>
+            BCloud
+          </span>
+        </a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class=""> </span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav  ">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html"> About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="service.html">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="login.html"> Login</a>
+            </li>
+            
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <div class="background"></div>
+  <div class="container">
+      <div class="content">
+
+          <div class="text-sci">
+              <h2>Welcome <br> <span>to BCloud</span></h2>
+
+              <p>BCloud is a leading provider of cloud computing solutions, dedicated to empowering businesses of all sizes with innovative technologies and reliable services.
+              </p>
+          </div>
+
+          <div class="social-icon">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+          </div>
+      </div>
+
+      <div class="box">
+          <div class="form-box login">
+              <form action="login.php" method="post">
+                  <h2>sign in</h2>
+
+                  <div class="input-box">
+                      <span class="icon"><i class="fas fa-envelope"></i></span>
+                      <input type="email" required>
+                      <label>Email</label>
+                  </div>
+
+                  <div class="input-box">
+                      <span class="icon"><i class="fas fa-lock"></i></span>
+                      <input type="password" required>
+                      <label>password</label>
+                  </div>
+
+                  <div class="remember-forget">
+                      <label><input type="checkbox">Remember me</label>
+                      <a href="#">forget password?</a>
+                  </div>
+
+                  <button type="submit" class="btn-login">Sign In</button>
+
+                  <div class="login-register">
+                      <p>Don't have an account? <a href="#" class="register-link">register</a></p>
+                  </div>
+              </form>
+          </div>
+
+          <div class="form-box register">
+            <form action="signup.php" method="post">
+                <h2>Sign Up</h2>
+        
+                <div class="input-box">
+                    <span class="icon"><i class="fas fa-file-signature"></i></span>
+                    <input type="text" name="fullname" required>
+                    <label>Full Name</label>
+                </div>
+        
+                <div class="input-box">
+                    <span class="icon"><i class="fas fa-user"></i></span>
+                    <input type="text" name="username" required>
+                    <label>username</label>
+                </div>
+        
+                <div class="input-box">
+                    <span class="icon"><i class="fas fa-envelope"></i></span>
+                    <input type="email" name="email" required>
+                    <label>Email</label>
+                </div>
+        
+                <div class="input-box">
+                    <span class="icon"><i class="fas fa-lock"></i></span>
+                    <input type="password" name="password" required>
+                    <label>password</label>
+                </div>
+        
+                <button type="submit" class="btn-login">Sign Up</button>
+        
+                <div class="login-register">
+                    <p>Aready have an account? <a href="#" class="login-link">sign in</a></p>
+                </div>
+            </form>
+        </div>
+      </div>
+  </div>
+  <script src="js/login.js"></script>
+</body>
+</html>
