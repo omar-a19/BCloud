@@ -1,0 +1,232 @@
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s3.png" alt="">
+              </div>
+              <div class="detail-box">
+            <div class="_dwg-plan-cards-v2__grid_biwlz_10
+             dwg-row-gap--3 dwg-grid-template-columns--12 
+             tablet:dwg-grid-template-columns--24 
+             dwg-box dwg-display--grid">
+             <div class="dwg-css-grid__cell dwg-grid-column-span--12 tablet:dwg-grid-column-span--12 
+             tablet-lg:dwg-grid-column-span--8 desktop:dwg-grid-column-span--8 dwg-box">
+             <div class="dwg-box dwg-display--flex dwg-height--full dwg-justify-content--center">
+                <div class="_dwg-plan-card-v2_biwlz_1 dwg-box dwg-theme--coconut-300
+                 dwg-display--flex dwg-width--full dwg-flex-direction--column 
+                 dwg-bg-color--core-secondary" 
+                 id="warp_plan_card__plus" data-testid="warp_plan_card__plus" 
+                 data-uxa-log="warp_plan_card__plus" data-uxa-interactions="shown click">
+                 <div class="dwg-box dwg-display--flex dwg-justify-content--flex-end dwg-pt--1 
+                 dwg-pr--1 dwg-pb--2 dwg-color--standard">
+                 <div class="dwg-box dwg-position--relative" data-testid="alignable-container__banner">
+                    <div class="dwg-box dwg-display--grid dwg-position--static tablet:dwg-position--absolute dwg-width--full">
+
+                    </div>
+                    <div class="_dwg-plan-cards-v2-alignable-container__placeholder_biwlz_85 dwg-box 
+                    dwg-display--none tablet:dwg-display--block" aria-hidden="true" role="none" 
+                    data-testid="dwg-plan-cards-v2-alignable-container__placeholder">
+                    <div class="_dwg-recommendation-pill_1ykgj_1 dwg-box dwg-theme--lime dwg-width--fit-content 
+                    dwg-pr--1 dwg-pl--0_5 dwg-bg-color--core-secondary dwg-color--standard">
+                    <div class="dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--0_5 dwg-box
+                     dwg-display--grid dwg-align-items--center dwg-justify-content--center dwg-p--0 dwg-m--0">
+                     <span class="dwg-lazy-icon--standard dwg-box dwg-display--inline-block" 
+                     data-testid="alignable-container_banner-dwg-icon"><svg viewBox="0 0 24 24" 
+                     fill="none" class="dig-UIIcon dig-UIIcon--standard" width="24" height="24" role="presentation" 
+                     focusable="false">
+                     <path d="M19.25 16c-1.21 0-1.75-.54-1.75-1.75v-.75H16v.75c0 1.21-.54 1.75-1.75 1.75h-.75v1.5h.75c1.21 0 1.75.54 1.75 1.75V20h1.5v-.75c0-1.21.54-1.75 1.75-1.75H20V16h-.75ZM16.5 9.5C12.8 9.5 11 7.7 11 4H9.5c0 3.7-1.8 5.5-5.5 5.5V11c3.7 0 5.5 1.8 5.5 5.5H11c0-3.7 1.8-5.5 5.5-5.5V9.5Zm-6.25 3.3a5.421 5.421 0 0 0-2.55-2.55 5.422 5.422 0 0 0 2.55-2.55 5.421 5.421 0 0 0 2.55 2.55 5.421 5.421 0 0 0-2.55 2.55Z"
+                      fill="currentColor" vector-effect="non-scaling-stroke"></path></svg>
+                    </span>
+                    <span class="dwg-text dwg-font-family--atlas-grotesk dwg-font-size--12 dwg-font-weight--medium 
+                    dwg-font-style--normal dwg-line-height--120% dwg-box dwg-p--0 dwg-m--0 
+                    dwg-bg-color--transparent dwg-color--standard" 
+                    style="line-height:100%">Popular</span></div>
+                    <svg aria-hidden="true" width="24" height="24" 
+                    viewBox="0 0 24 24" class="_dwg-recommendation-pill__star_1ykgj_11">
+                    <path d="M12 0L12.8485 11.1515L24 12L12.8485 12.8485L12 24L11.1515 12.8485L0 12L11.1515 11.1515L12 0Z" 
+                    fill="#FFFFFF"></path></svg>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="_dwg-plan-card-v2__section_biwlz_6 dwg-box dwg-display--flex dwg-height--full 
+    dwg-flex-direction--column dwg-p--3 
+    tablet:dwg-p--6 dwg-pt--0 dwg-bg-color--core-secondary 
+    dwg-color--standard">
+    <div class="dwg-stack dwg-stack--v2 dwg-stack--grid-flow-row dwg-row-gap--2 dwg-box
+     dwg-display--grid dwg-align-items--center 
+     dwg-justify-content--stretch dwg-p--0 dwg-m--0">
+     <div class="dwg-box dwg-position--relative">
+        <div class="dwg-box dwg-display--grid dwg-position--static tablet:dwg-position--absolute 
+        dwg-width--full">
+        <div class="_dwg-plan-card-v2__plan-name_biwlz_24 dwg-box 
+        dwg-display--flex dwg-align-items--center">
+        <div class="dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--0_5 dwg-box 
+        dwg-display--grid dwg-align-items--center dwg-justify-content--flex-start dwg-p--0 dwg-m--0">
+        <span class="dwg-lazy-icon--standard dwg-box dwg-display--inline-block">
+            <svg viewBox="0 0 24 24" fill="none" class="dig-UIIcon dig-UIIcon--standard" 
+            width="24" height="24" role="presentation" focusable="false">
+            <path d =
+            "M14.9 11.508A4.822 4.822 0 0 0 15.5 9c0-2.542-1.275-4-3.5-4S8.5 6.458 8.5 9a4.822 4.822 0 0 0 .6 2.508A4.25 4.25 0 0 0 5 15.75V19h14v-3.25a4.25 4.25 0 0 0-4.1-4.242ZM12 6.5c.931 0 2 .284 2 2.5s-1.069 2.5-2 2.5-2-.284-2-2.5 1.069-2.5 2-2.5Zm5.5 11h-11v-1.75A2.753 2.753 0 0 1 9.25 13h5.5a2.753 2.753 0 0 1 2.75 2.75v1.75Z"
+            fill = "currentColor" vector - effect =
+            "non-scaling-stroke" >
+            </path >
+            </svg ></span >
+            <h3 class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-size--16 dwg-font-weight--medium dwg-font-style--normal dwg-line-height--120% dwg-box dwg-p--0 dwg-pr--1 dwg-m--0 dwg-bg-color--transparent dwg-color--standard"
+            >
+            For personal use </h3 ></div ></div ></div >
+            <div class =
+            "_dwg-plan-cards-v2-alignable-container__placeholder_biwlz_85 dwg-box dwg-display--none tablet:dwg-display--block"
+            aria - hidden = "true" role = "none" data - testid =
+            "dwg-plan-cards-v2-alignable-container__placeholder" >
+            <div class =
+            "_dwg-plan-card-v2__plan-name_biwlz_24 dwg-box dwg-display--flex dwg-align-items--center"
+            ><div class =
+            "dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--0_5 dwg-box dwg-display--grid dwg-align-items--center dwg-justify-content--flex-start dwg-p--0 dwg-m--0"
+            ><span class =
+            "dwg-lazy-icon--standard dwg-box dwg-display--inline-block" >
+            <svg viewBox =
+            "0 0 24 24" fill = "none" class = "dig-UIIcon dig-UIIcon--standard" width =
+            "24" height = "24" role = "presentation" focusable = "false" >
+            <path d =
+            "M14.9 11.508A4.822 4.822 0 0 0 15.5 9c0-2.542-1.275-4-3.5-4S8.5 6.458 8.5 9a4.822 4.822 0 0 0 .6 2.508A4.25 4.25 0 0 0 5 15.75V19h14v-3.25a4.25 4.25 0 0 0-4.1-4.242ZM12 6.5c.931 0 2 .284 2 2.5s-1.069 2.5-2 2.5-2-.284-2-2.5 1.069-2.5 2-2.5Zm5.5 11h-11v-1.75A2.753 2.753 0 0 1 9.25 13h5.5a2.753 2.753 0 0 1 2.75 2.75v1.75Z"
+            fill = "currentColor" vector - effect =
+            "non-scaling-stroke" ></path >
+            </svg ></span >
+            <h3 class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-size--16 dwg-font-weight--medium dwg-font-style--normal dwg-line-height--120% dwg-box dwg-p--0 dwg-pr--1 dwg-m--0 dwg-bg-color--transparent dwg-color--standard"
+            > For professionals </h3 ></div ></div ></div ></div >
+            <div class =
+            "dwg-box dwg-position--relative" data - testid =
+            "alignable-container__plan-name" ><div class =
+            "dwg-box dwg-display--grid dwg-position--static tablet:dwg-position--absolute dwg-width--full"
+            ><div class = "dwg-box dwg-width--fit-content" ><span class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-weight--medium dwg-line-height--120% _dwg-plan-card-v2__plan-type-label_biwlz_20 dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent"
+            data - testid =
+            "plan_name_test_id" > Plus </span ></div ></div >
+            <div class =
+            "_dwg-plan-cards-v2-alignable-container__placeholder_biwlz_85 dwg-box dwg-display--none tablet:dwg-display--block"
+            aria - hidden = "true" role = "none" data - testid =
+            "dwg-plan-cards-v2-alignable-container__placeholder" ><div class =
+            "dwg-box dwg-width--fit-content" ><span class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-weight--medium dwg-line-height--120% _dwg-plan-card-v2__plan-type-label_biwlz_20 dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent"
+            > Essentials </span ></div ></div ></div >
+            <div class =
+            "dwg-box dwg-position--relative" data - testid =
+            "alignable-container__price-and-rate" ><div class =
+            "dwg-box dwg-display--grid dwg-position--static tablet:dwg-position--absolute dwg-width--full"
+            ><div class = "dwg-box" ><span class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-size--20 dwg-font-weight--medium dwg-font-style--normal dwg-line-height--120% dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent dwg-color--standard"
+            ><span data - testid =
+            "price_test_id" > $9 .99 / month </span ></span ></div ></div >
+            <div class =
+            "_dwg-plan-cards-v2-alignable-container__placeholder_biwlz_85 dwg-box dwg-display--none tablet:dwg-display--block"
+            aria - hidden = "true" role = "none" data - testid =
+            "dwg-plan-cards-v2-alignable-container__placeholder" ><div class =
+            "dwg-box" >
+            <span class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-size--20 dwg-font-weight--medium dwg-font-style--normal dwg-line-height--120% dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent dwg-color--standard"
+            ><span > $9 .99 / month </span ></span ></div ></div ></div ></div >
+                <div class =
+            "dwg-box dwg-theme--coconut-200 dwg-mt--4" ><a class =
+            "dwg-button2 dwg-button2--button-style-primary dwg-button2--button-size-standard dwg-box dwg-display--inline-block dwg-width--full dwg-pt--2 dwg-pr--3 dwg-pb--2 dwg-pl--3 dwg-bg-color--core-accent disabled:dwg-bg-color--disabled dwg-border-color--core-accent disabled:dwg-border-color--disabled dwg-border-style--solid dwg-color--inverse-standard disabled:dwg-color--inverse-faint"
+            href = "/buy/plus" rel = "" aria - label = "" data - trackingid =
+            "plan_cards_plank_plus_primary_cta" data - uxa - log =
+            "plan_cards_plank_plus_primary_cta" ><div class =
+            "dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--3 dwg-box dwg-display--inline-grid dwg-position--relative dwg-width--full dwg-height--full dwg-align-items--center dwg-justify-content--space-between dwg-p--0 dwg-m--0 dwg-text-decoration--none"
+            ><span class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-size--16 dwg-font-weight--medium dwg-font-style--normal dwg-line-height--120% dwg-button2__text dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent dwg-color--inherit"
+            > Buy now </span ><span class =
+            "dwg-button2__icon dwg-button2__icon--end dwg-box dwg-display--inline mobile-lg:dwg-display--inline tablet:dwg-display--inline tablet-lg:dwg-display--inline desktop:dwg-display--inline desktop-lg:dwg-display--inline ultrawide:dwg-display--inline"
+            ><span class =
+            "dwg-lazy-icon--standard dwg-box dwg-display--inline-block" >
+            <svg viewBox =
+            "0 0 24 24" fill = "none" class = "dig-UIIcon dig-UIIcon--standard" width =
+            "24" height = "24" role = "presentation" focusable = "false" ><path d =
+            "M5 11.75h12m-5.25-6.5 6.25 6.5-6.25 6.5" stroke =
+            "currentColor" stroke - width = "1.5" stroke - miterlimit =
+            "10" vector - effect =
+            "non-scaling-stroke" ></path ></svg ></span ></span ></div ></a ></div >
+            <div class =
+            "_dwg-plan-card-v2__secondary-button-container_biwlz_75 dwg-box dwg-mt--0 tablet-lg:dwg-mt--3"
+            data - testid =
+            "dwg-plan-card-v2__secondary-button-container" ></div >
+            <div class =
+            "_dwg-plan-card-v2__feature-list_biwlz_94 dwg-box dwg-pt--4" >
+            <div class =
+            "dwg-stack dwg-stack--v2 dwg-stack--grid-flow-row dwg-row-gap--2 dwg-box dwg-display--grid dwg-align-items--center dwg-justify-content--stretch dwg-p--0 dwg-m--0"
+            ><ul class =
+            "dwg-stack dwg-stack--v2 dwg-stack--grid-flow-row dwg-row-gap--2 dwg-box dwg-display--grid dwg-align-items--center dwg-justify-content--stretch dwg-p--0 dwg-m--0"
+            ><li class =
+            "dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--1 dwg-box dwg-display--grid dwg-align-items--flex-start dwg-justify-content--flex-start dwg-p--0 dwg-m--0 dwg-color--inherit"
+            style = "list-style:none" ><span class =
+            "_dwg-plan-card-v2__icon_biwlz_54 dwg-lazy-icon--standard dwg-box dwg-display--inline-block"
+            ><svg viewBox = "0 0 24 24" fill = "none" class =
+            "dig-UIIcon dig-UIIcon--standard" width = "24" height = "24" role =
+            "presentation" focusable = "false" ><path d =
+            "M14.9 11.508A4.822 4.822 0 0 0 15.5 9c0-2.542-1.275-4-3.5-4S8.5 6.458 8.5 9a4.822 4.822 0 0 0 .6 2.508A4.25 4.25 0 0 0 5 15.75V19h14v-3.25a4.25 4.25 0 0 0-4.1-4.242ZM12 6.5c.931 0 2 .284 2 2.5s-1.069 2.5-2 2.5-2-.284-2-2.5 1.069-2.5 2-2.5Zm5.5 11h-11v-1.75A2.753 2.753 0 0 1 9.25 13h5.5a2.753 2.753 0 0 1 2.75 2.75v1.75Z"
+            fill = "currentColor" vector - effect =
+            "non-scaling-stroke" ></path ></svg ></span ><span class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-size--14 dwg-font-weight--regular dwg-font-style--normal dwg-line-height--150% dwg-typography--pretty-balance dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent dwg-color--standard"
+            > 1 user </span ></li ><li class =
+            "dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--1 dwg-box dwg-display--grid dwg-align-items--flex-start dwg-justify-content--flex-start dwg-p--0 dwg-m--0 dwg-color--inherit"
+            style = "list-style:none" ><span class =
+            "_dwg-plan-card-v2__icon_biwlz_54 dwg-lazy-icon--standard dwg-box dwg-display--inline-block"
+            ><svg viewBox = "0 0 24 24" fill = "none" class =
+            "dig-UIIcon dig-UIIcon--standard" width = "24" height = "24" role =
+            "presentation" focusable = "false" ><path fill - rule =
+            "evenodd" clip - rule = "evenodd" d =
+            "M11 4h.75c5.215 0 7.75 2.535 7.75 7.75s-2.535 7.75-7.75 7.75c-3.668 0-6.06-1.326-7.109-3.943l-.25-.616L11 11.306V4ZM6.316 15.595C7.239 17.232 8.986 18 11.75 18c4.323 0 6.25-1.927 6.25-6.25 0-4.064-1.704-6.01-5.5-6.229v6.673l-6.184 3.4Z"
+            fill = "currentColor" vector - effect =
+            "non-scaling-stroke" ></path ><path d =
+            "M9.5 5.724c-2.746.619-4 2.544-4 6.026 0 .296.011.58.03.854l-1.43.786a13.42 13.42 0 0 1-.1-1.64c0-4.396 1.81-6.881 5.5-7.554v1.529Z"
+            fill = "currentColor" vector - effect =
+            "non-scaling-stroke" ></path ></svg ></span >
+            <span class =
+            "dwg-text dwg-font-family--atlas-grotesk dwg-font-size--14 dwg-font-weight--regular dwg-font-style--normal dwg-line-height--150% dwg-typography--pretty-balance dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent dwg-color--standard"
+            ><span class =
+            "dwg-text dwg-font-family--inherit dwg-font-weight--medium dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent"
+            > 2 TB </span > of storage </span ></li ><li class =
+            "dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--1 dwg-box dwg-display--grid dwg-align-items--flex-start dwg-justify-content--flex-start dwg-p--0 dwg-m--0 dwg-color--inherit"
+            style = "list-style:none" ><div class="_dwg-plan-card-v2__icon_biwlz_54 dwg-lazy-icon--standard dwg-box dwg-display--inline-block">
+                <svg viewBox="0 0 24 24" fill="none" class="dig-UIIcon dig-UIIcon--standard" width="24" height="24" role="presentation" focusable="false">
+                    <path d="m4.989 9.568 6.215 3.729 3.756 6.26L19.8 4.423 4.989 9.568Zm3.522.364 7.35-2.554-4.239 4.422-3.11-1.868Zm6.03 6.011-1.85-3.088 4.258-4.442-2.409 7.53Zm-6.919-3.097-3.59 3.552 1.055 1.066 3.59-3.552-1.055-1.066Zm2.601 2.37L7.615 17.79l1.054 1.068 2.608-2.574-1.054-1.068Z" fill="currentColor" vector-effect="non-scaling-stroke"></path>
+                </svg>
+            </div>
+            <span class="dwg-text dwg-font-family--atlas-grotesk dwg-font-size--14 dwg-font-weight--regular dwg-font-style--normal dwg-line-height--150% dwg-typography--pretty-balance dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent dwg-color--standard">
+                <p class="dwg-text dwg-font-family--inherit dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent">Large file delivery up to <span class="dwg-text dwg-font-family--inherit dwg-font-weight--medium dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent">2 GB</span></p>
+            </span>
+            <li class="dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--1 dwg-box dwg-display--grid dwg-align-items--flex-start dwg-justify-content--flex-start dwg-p--0 dwg-m--0 dwg-color--inherit" style="list-style:none">
+                <span class="_dwg-plan-card-v2__icon_biwlz_54 dwg-lazy-icon--standard dwg-box dwg-display--inline-block">
+                    <svg viewBox="0 0 24 24" fill="none" class="dig-UIIcon dig-UIIcon--standard" width="24" height="24" role="presentation" focusable="false">
+                        <path d="M11 11H9v1.5h3.5v-5H11V11Z" fill="currentColor" vector-effect="non-scaling-stroke"></path>
+                        <path d="M11.75 4C6.535 4 4 6.535 4 11.75s2.535 7.75 7.75 7.75 7.75-2.535 7.75-7.75S16.965 4 11.75 4Zm0 14c-4.322 0-6.25-1.927-6.25-6.25 0-4.322 1.928-6.25 6.25-6.25 4.323 0 6.25 1.928 6.25 6.25 0 4.323-1.927 6.25-6.25 6.25Z" fill="currentColor" vector-effect="non-scaling-stroke"></path>
+                    </svg>
+                </span>
+                <span class="dwg-text dwg-font-family--atlas-grotesk dwg-font-size--14 dwg-font-weight--regular dwg-font-style--normal dwg-line-height--150% dwg-typography--pretty-balance dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent dwg-color--standard">
+                    <p class="dwg-text dwg-font-family--inherit dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent"><span class="dwg-text dwg-font-family--inherit dwg-font-weight--medium dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent">30 days</span> to restore deleted files</p>
+                </span>
+            </li>
+            <div class="dwg-box dwg-mt--3">
+                <a class="dwg-button2 dwg-button2--button-style-transparent dwg-button2--button-size-none dwg-box dwg-display--inline-block dwg-width--fit-content dwg-p--0 dwg-bg-color--transparent dwg-border-style--none dwg-color--standard active:dwg-color--standard disabled:dwg-color--disabled"
+                    href="#all-features" rel="" aria-label="" data-trackingid="dwg_plan_cards_rcs_plank-3b1985044c__view-all-features--0" data-uxa-log="dwg_plan_cards_rcs_plank-3b1985044c__view-all-features--0">
+                    <div class="dwg-stack dwg-stack--v2 dwg-stack--grid-flow-column dwg-column-gap--0_5 dwg-box dwg-display--inline-grid dwg-position--relative dwg-width--full dwg-height--full dwg-align-items--center dwg-justify-content--flex-start dwg-p--0 dwg-m--0 dwg-text-decoration--underline">
+                        <span class="dwg-text dwg-font-family--atlas-grotesk dwg-font-size--14 dwg-font-weight--medium dwg-font-style--normal dwg-line-height--120% dwg-button2__text dwg-box dwg-p--0 dwg-m--0 dwg-bg-color--transparent dwg-color--inherit">
+                            View all features
+                        </span>
+                    </div>
+                </a>
+            </div>
+           
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+          </div>
+        </div></div></div></section></div>

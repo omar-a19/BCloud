@@ -802,6 +802,91 @@ a:focus {
   background-color: #007fa4;
 }
 
+/* payment section */
+
+.circle {
+  position: absolute;
+  border-radius: 50%;
+  background: linear-gradient(120deg, #1d976c, #2c3e50);
+} 
+
+.payment_section{
+width: 60%;
+padding: 45px;
+border-radius: 0;
+position: absolute;
+left: 50%;
+top: 20%;
+transform: translate(-50%,-50%);
+}
+
+.payment-form{
+  height: 52px;
+  background: #fff;
+  color: #000;
+  font-size: 14px;
+  border-radius: 2px;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+
+}
+
+
+.payment_section h4 {
+  font-weight: 600;
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: #000;
+}
+
+.payment_section .payment_col {
+  margin-bottom: 30px;
+}
+
+
+.payment_section form input {
+  border-radius: 6px;
+  height: max-content;
+  background-color: transparent;
+  color: #000000;
+ 
+}
+
+.payment_section form input::-webkit-input-placeholder {
+  color: #000000;
+}
+
+.payment_section form input:-ms-input-placeholder {
+  color: #000000;
+}
+
+.payment_section form input::-ms-input-placeholder {
+  color: #000000;
+}
+
+.payment_section form input::placeholder {
+  color: #000000;
+}
+
+.payment_section form button {
+  width: auto;
+  text-align: center;
+  padding: 10px 55px;
+  background-color: #00bbf0;
+  color: #000000;
+  border-radius: 16px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: none;
+  margin-top: 15px; 
+}
+
+.payment_section form button:hover {
+  background-color: #007fa4;
+}
+
+
 /* footer section*/
 .footer_section {
   position: relative;
@@ -818,6 +903,7 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
 
 
 
